@@ -174,7 +174,7 @@ Please refer to [Open CLIP Results](https://github.com/mlfoundations/open_clip/b
 
 | Model                                                     | # Seen <BR>Samples (B) | # Params (M) <BR> (img + txt) | Latency (ms) <BR> (img + txt) | IN-1k Zero-Shot <BR> Top-1 Acc. (%) | Avg. Perf. (%) <BR> on 38 datasets |
 |:----------------------------------------------------------|:----------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------------:|:----------------------------------:|
-| [MobileCLIP2-S0](https://hf.co/apple/MobileCLIP2-S0)      |           13           |          11.4 + 42.4          |           1.5 + 1.6           |               71.5                 |                59.7                 |
+| [MobileCLIP2-S0](https://hf.co/apple/MobileCLIP2-S0)      |           13           |          11.4 + 63.4          |           1.5 + 3.3           |               71.5                 |                59.7                 |
 | [MobileCLIP2-S2](https://hf.co/apple/MobileCLIP2-S2)      |           13           |          35.7 + 63.4          |           3.6 + 3.3           |               77.2                 |                64.1                 |
 | [MobileCLIP2-B](https://hf.co/apple/MobileCLIP2-B)        |           13           |          86.3 + 63.4          |          10.4 + 3.3           |               79.4                 |                65.8                 |
 | [MobileCLIP2-S3](https://hf.co/apple/MobileCLIP2-S3)      |           13           |         125.1 + 123.6         |           8.0 + 6.6           |               80.7                 |                66.8                 |
