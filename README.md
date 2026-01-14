@@ -1,5 +1,9 @@
 # MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training
 
+> **❗ Update:**
+> Added `export_onnx.py` to convert models into `vision_model.onnx` and `text_model.onnx` for **Unity Sentis 2.4.1**.
+> The script automatically downloads the pre-trained weights from Hugging Face and saves the converted ONNX files to the `onnx/` directory.
+
 This is the official repository of
 - **[MobileCLIP2: Improving Multi-Modal Reinforced Training](http://arxiv.org/abs/2508.20691). (TMLR August 2025 <mark>Featured</mark>)**
 *Fartash Faghri, Pavan Kumar Anasosalu Vasu, Cem Koc, Vaishaal Shankar, Alexander T Toshev, Oncel Tuzel, Hadi Pouransari.*
